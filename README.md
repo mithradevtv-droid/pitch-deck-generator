@@ -95,7 +95,7 @@ pitch-deck-generator
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/pitch-deck-generator.git
+https://github.com/mithradevtv-droid/pitch-deck-generator
 ```
 
 Move into the project:
